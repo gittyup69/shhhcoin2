@@ -4,22 +4,23 @@ Shhhcoin integration/staging tree
 http://www.shhhcoin.org
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Shhhcoin Developers
+Copyright (c) 2011-2014 Litecoin Developers
+Copyright (c) 2020 Shhhcoin Developers
 
 What is Shhhcoin?
 ----------------
 
-Shhhcoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
+Shhhcoin is a fork of Litecoin using scrypt as a proof-of-work algorithm.
+ - 4.2 seconds block targets
+ - subsidy halves in 2.6352m blocks (~4 months)
+ - ~5275558 million total coins
 
 The rest is the same as Bitcoin.
- - 50 coins per block
- - 2016 blocks to retarget difficulty
+ - 1 coins per block
+ - 613440 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the Shhhcoin client sofware, see http://www.shhhcoin.org.
+the Shhhcoin client sofware, see http://www.shhhcoin.xyz.
 
 License
 -------
