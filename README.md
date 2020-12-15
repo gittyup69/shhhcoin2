@@ -14,6 +14,7 @@ Shhhcoin is a fork of Litecoin using scrypt as a proof-of-work algorithm.
  - 4.2 seconds block targets
  - subsidy halves in 2.6352m blocks (~4 months)
  - ~5275558 million total coins
+ - Ports: Main- Testnet- 
 
 The rest is the same as Bitcoin.
  - 1 coins per block
