@@ -1,0 +1,9 @@
+Building Shhhcoin
+
+See doc/readme-qt.rst for instructions on building Shhhcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Shhhcoin.
+
+See doc/build-*.txt for instructions on building shhhcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Shhhcoin.
